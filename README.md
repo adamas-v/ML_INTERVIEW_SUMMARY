@@ -17,6 +17,7 @@
 
 ## 凸优化和非凸优化
 ### 正则化和凸优化
+https://www.cnblogs.com/zingp/p/10375691.html#_label0
 
 ## 线形代数知识
 ### 
