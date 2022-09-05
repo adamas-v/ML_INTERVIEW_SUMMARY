@@ -33,7 +33,7 @@ https://explained.ai/
 ## 信息论知识
 ### 熵
 
-##linux基础知识
-###pipe
+## linux基础知识
+### pipe
 https://www.jianshu.com/p/9c0c2b57cb73
 
