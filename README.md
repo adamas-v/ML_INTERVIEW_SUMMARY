@@ -21,6 +21,7 @@ https://www.cnblogs.com/zingp/p/10375691.html#_label0
 
 ## 线形代数知识
 ### 
+https://explained.ai/
 ## 高等数学知识
 ### 通解
 
@@ -31,4 +32,8 @@ https://www.cnblogs.com/zingp/p/10375691.html#_label0
 
 ## 信息论知识
 ### 熵
+
+##linux基础知识
+###pipe
+https://www.jianshu.com/p/9c0c2b57cb73
 
