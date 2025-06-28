@@ -1,5 +1,5 @@
 # ML_INTERVIEW_Q-A
-## 计算机视觉（owner是计算机视觉出生的倒霉蛋）
+## 计算机视觉（owner是计算机视觉出身的倒霉蛋）
 ## 常用机器学习算法
 ### 决策树
 ### 随机森林
@@ -36,4 +36,6 @@ https://explained.ai/
 ## linux基础知识
 ### pipe
 https://www.jianshu.com/p/9c0c2b57cb73
+
+## 大语言模型相关
 
